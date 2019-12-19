@@ -1,0 +1,20 @@
+### 简单请求百度
+GET https://www.baidu.com
+
+
+### 请求xxx
+GET https://wx.yysports.com/limitelottery/activity?activityId=2243 HTTP/1.1
+Accept: */*
+Accept-Language: zh-CN,zh;q=0.9
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJsaW1pdGVkX2VkaXRpb25fbG90dGVyeSIsImlhdCI6MTU3NjczNjU0OSwianRpIjoiMjg5MzY3NDgiLCJzdWIiOiIxODI2MTI5NDc1NyIsImxpbWl0ZWRVc2VyIjp0cnVlfQ.jTNu3TyXN6NWmxOKcEz4IVxMgjMkyVIA-Zim5J_oRXc
+Cache-Control: no-cache
+Pragma: no-cache
+sec-fetch-mode: cors
+sec-fetch-site: same-origin
+x-requested-with: XMLHttpRequest
+Referer: https://wx.yysports.com/limitelottery/product-list.html?activityId=2243
+mode: cors
+body: null
+referrerPolicy: no-referrer-when-downgrade
+Cookie: msidPousheng=XSGGtlUx8MNCEA0s-lUU5F_4GTF3DBiw; taid=fcabc313-a7f6-4b50-898d-f2c9a87ac275; Hm_lvt_85162d54d43a0a6639a885137875de79=1576736061,1576736079,1576736086; Hm_lpvt_85162d54d43a0a6639a885137875de79=1576736086; uid=28936748; code=voG28R
+User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1
